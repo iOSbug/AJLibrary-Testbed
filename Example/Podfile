@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'AJLibrary-Testbed_Example' do
+  pod 'AJLibrary-Testbed', :path => '../'
+
+  target 'AJLibrary-Testbed_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

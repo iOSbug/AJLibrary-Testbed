@@ -1,0 +1,15 @@
+/* 
+  InfoPlist.strings
+  Wansview
+
+  Created by tmz on 2019/11/19.
+  Copyright © 2019 AJCloud. All rights reserved.
+*/
+
+
+"CFBundleDisplayName"="AJCloud";
+
+"NSCameraUsageDescription" = "Application voudrait accéder à la caméra.";
+"NSLocationWhenInUseUsageDescription" = "L'autorisation permet de remplir automatiquement le nom Wi-Fi, sinon vous DEVEZ le saisir manuellement.";
+"NSMicrophoneUsageDescription" = "La fonction de conversation doit collecter le son via le microphone.";
+"NSLocalNetworkUsageDescription"= "Connecter le point d'accès de la caméra pour l'aider à se connecter au Wi-Fi.";

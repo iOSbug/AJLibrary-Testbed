@@ -1,0 +1,15 @@
+/* 
+  InfoPlist.strings
+  Wansview
+
+  Created by tmz on 2019/11/19.
+  Copyright © 2019 AJCloud. All rights reserved.
+*/
+
+
+"CFBundleDisplayName"="AJCloud";
+
+"NSCameraUsageDescription" = "應用程式需要訪問你的「相機」";
+"NSLocationWhenInUseUsageDescription" = "允許它則可以自動幫您填充無線名稱，否則你必須手動輸入。";
+"NSMicrophoneUsageDescription" = "通話功能需要通過麥克風採集聲音。";
+"NSLocalNetworkUsageDescription"= "綁定設備時，需要連接設備的熱點";

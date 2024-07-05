@@ -1,0 +1,16 @@
+PODS:
+  - AJLibrary-Testbed (0.1.0)
+
+DEPENDENCIES:
+  - AJLibrary-Testbed (from `../`)
+
+EXTERNAL SOURCES:
+  AJLibrary-Testbed:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AJLibrary-Testbed: 7e2361f8f166b52096e7f9a26ab5da86056adce9
+
+PODFILE CHECKSUM: e6fc72b7e08e65ac72bfa92695c4505f7e099822
+
+COCOAPODS: 1.15.2

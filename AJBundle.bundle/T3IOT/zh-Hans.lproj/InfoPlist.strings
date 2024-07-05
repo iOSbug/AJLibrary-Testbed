@@ -1,0 +1,15 @@
+/* 
+  InfoPlist.strings
+  Wansview
+
+  Created by tmz on 2019/11/19.
+  Copyright © 2019 AJCloud. All rights reserved.
+*/
+
+
+"CFBundleDisplayName"="安居云";
+
+"NSCameraUsageDescription" = "App想扫描设备上的二维码进行绑定。";
+"NSLocationWhenInUseUsageDescription" = "允许它则可以自动帮您填充无线名称，否则你必须手动输入。";
+"NSMicrophoneUsageDescription" = "通话功能需要通过麦克风采集声音。";
+"NSLocalNetworkUsageDescription"= "绑定设备时，需要连接设备的热点";

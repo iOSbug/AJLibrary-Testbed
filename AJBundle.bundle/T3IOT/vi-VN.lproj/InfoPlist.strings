@@ -1,0 +1,14 @@
+/* 
+  InfoPlist.strings
+  Wansview
+
+  Created by tmz on 2019/11/19.
+  Copyright © 2019 AJCloud. All rights reserved.
+*/
+
+"CFBundleDisplayName"="AJCloud";
+
+"NSCameraUsageDescription" = "App would like to scan the QR code on the device to bind it.";
+"NSLocationWhenInUseUsageDescription" = "Allowing it will automatically fill in the Wi-Fi name, otherwise you MUST to manually enter it.";
+"NSMicrophoneUsageDescription" = "The talking function needs to collect sound through the microphone.";
+"NSLocalNetworkUsageDescription"= "Connect the camera’s hotspot to help it connect to Wi-Fi.";

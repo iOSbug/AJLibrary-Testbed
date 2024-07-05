@@ -1,0 +1,6 @@
+framework module AJLibrary_Testbed {
+  umbrella header "AJLibrary-Testbed-umbrella.h"
+
+  export *
+  module * { export * }
+}
