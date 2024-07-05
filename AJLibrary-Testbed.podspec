@@ -33,11 +33,9 @@ Pod::Spec.new do |s|
  s.subspec 'Core' do |ss|
 
   ss.vendored_frameworks = "libs/*.{framework}"
-#   s.source_files = 'AJLibrary-Testbed/Classes/**/*'
 
-#    ss.source_files        = 'AJLibrary-Testbed.framework/Headers/*.{h}'
     ss.resources           = 'AJBundle.bundle'
-    ss.preserve_paths      = 'AJLibrary-Testbed.framework/*', 'AJBundle.bundle'
+    ss.preserve_paths      = 'AJLibrary.framework/*', 'AJBundle.bundle'
 
   ss.frameworks   = 'OpenGLES','Foundation','SystemConfiguration','OpenAL','Security','MediaPlayer','AVFoundation','CoreVideo','CoreAudio','CoreMedia','VideoToolbox','AudioToolbox','AdSupport','NetworkExtension','GLKit'
   
